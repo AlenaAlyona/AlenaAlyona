@@ -3,8 +3,6 @@
 Check out my first full stack project!
 [TALKIE](https://5f92b713a9d3a800083fc88a--practical-goldberg-df7fdd.netlify.app/)
 
-[![TALKIE DEMO](https://img.youtube.com/vi/Ax6oLBHjlC8/0.jpg)](http://www.youtube.com/watch?v=Ax6oLBHjlC8 "TALKIE DEMO")
-
 You can learn more about it here 
 - :point_right: [talkie-frontend](https://github.com/AlenaAlyona/talkie-frontend)
 - :point_right: [talkie-backend](https://github.com/AlenaAlyona/talkie_backend)</br>
