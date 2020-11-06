@@ -18,6 +18,7 @@ A while ago I with my bootcamp mates did a group project [CodaShare](https://ado
 ### Languages and Tools
 
 <img align="left" alt="html logo" width="26px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"/>
+<img align="left" alt="css logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png"/>
 <img align="left" alt="js logo" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
 <img align="left" alt="ts logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>
 <img align="left" alt="nodejs logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
@@ -27,7 +28,6 @@ A while ago I with my bootcamp mates did a group project [CodaShare](https://ado
 <img align="left" alt="react logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"/>
 <img align="left" alt="redux logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
 <img align="left" alt="axios logo" width="26px" src="https://symbols-electrical.getvecta.com/stencil_74/147_axios.1cfeb3fa9b.png"/>
-<img align="left" alt="css logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png"/>
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
 <br>
 <br>
