@@ -1,4 +1,4 @@
-<code><img src=""alt="header pic"/><code/>
+<code><img src="images/header.png" alt="header pic"/><code/>
 
 Check out my first full stack project!
 [TALKIE](https://5f92b713a9d3a800083fc88a--practical-goldberg-df7fdd.netlify.app/)
