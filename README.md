@@ -10,8 +10,8 @@ You can learn more about it here
 
 A while ago I with my bootcamp mates did a group project [CodaShare](https://adoring-varahamihira-27939f.netlify.app/) :muscle:
 
-- :point_right: [CodaShare frontend](https://github.com/AlenaAlyona/talkie-frontend)
-- :point_right: [CodaShare backend](https://github.com/FarzadTaghavi/group-project-backend)
+- :point_right: [CodaShare frontend](https://github.com/AlenaAlyona/group-project-frontend)
+- :point_right: [CodaShare backend](https://github.com/AlenaAlyona/group-project-backend)
 
 ### Connect with me [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>][linkedin]
 
