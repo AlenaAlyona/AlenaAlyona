@@ -13,6 +13,10 @@ A while ago I with my bootcamp mates did a group project [CodaShare](https://ado
 - :point_right: [CodaShare frontend](https://github.com/AlenaAlyona/group-project-frontend)
 - :point_right: [CodaShare backend](https://github.com/AlenaAlyona/group-project-backend)
 
+My first Vue project [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) :zap:
+
+- :point_right: [weather-vueapp frontend](https://github.com/AlenaAlyona/weather_app)
+
 ### Connect with me [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>][linkedin]
 
 ### Languages and Tools
