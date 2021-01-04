@@ -34,11 +34,6 @@ My first Vue project [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) :zap:
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
 <br>
 <br>
-
-### My GitHub Stats
-
-<br>
-<img alt="Alena's stats" src="https://github-readme-stats.vercel.app/api?username=AlenaAlyona&show_icons=true&bg_color=1c2444&hide_border=true&title_color=f3cd74&text_color=f3cd74&icon_color=5dcad1" />
   
 <!--
 **AlenaAlyona/AlenaAlyona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
