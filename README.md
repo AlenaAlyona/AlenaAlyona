@@ -32,6 +32,7 @@ My first Vue project [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) :zap:
 <img align="left" alt="react logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"/>
 <img align="left" alt="redux logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
+<img align="left" alt="webpack logo" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"/>
 <br>
 <br>
   
