@@ -4,7 +4,7 @@
 
 :zap: Vue [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) app ([source code](https://github.com/AlenaAlyona/weather_app))
 
-:wave: React + Redux + Firebase + Sequelize ORM + REST API [TALKIE](https://talkie-nl.netlify.app/) app 
+:wave: React + Redux + Firebase + Sequelize ORM [TALKIE](https://talkie-nl.netlify.app/) app 
 
 source code:
 - :point_right: [talkie client](https://github.com/AlenaAlyona/talkie-frontend)
