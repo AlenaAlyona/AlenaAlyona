@@ -1,21 +1,20 @@
 <img src="images/header.png" alt="header pic"/>
 
-Check out my first full stack project!
-[TALKIE](https://talkie-nl.netlify.app/)
+:pencil2: React + Typescript [To-Do-List](https://todo-dodo.netlify.app/) app ([source code](https://github.com/AlenaAlyona/todo_list))
 
-You can learn more about it here
+:zap: Vue [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) app ([source code](https://github.com/AlenaAlyona/weather_app))
 
-- :point_right: [talkie frontend](https://github.com/AlenaAlyona/talkie-frontend)
-- :point_right: [talkie backend](https://github.com/AlenaAlyona/talkie_backend)
+:wave: React + Redux + Firebase + Sequelize ORM + REST API [TALKIE](https://talkie-nl.netlify.app/) app 
 
-A while ago I with my bootcamp mates did a group project [CodaShare](https://adoring-varahamihira-27939f.netlify.app/) :muscle:
+source code:
+- :point_right: [talkie client](https://github.com/AlenaAlyona/talkie-frontend)
+- :point_right: [talkie server](https://github.com/AlenaAlyona/talkie_backend)
 
-- :point_right: [CodaShare frontend](https://github.com/AlenaAlyona/group-project-frontend)
-- :point_right: [CodaShare backend](https://github.com/AlenaAlyona/group-project-backend)
+:muscle: React + Typescript + TypeORM [CodaShare](https://adoring-varahamihira-27939f.netlify.app/) app
 
-My first Vue project [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) :zap:
-
-- :point_right: [weather-vueapp frontend](https://github.com/AlenaAlyona/weather_app)
+source code:
+- :point_right: [CodaShare client](https://github.com/AlenaAlyona/group-project-frontend)
+- :point_right: [CodaShare server](https://github.com/AlenaAlyona/group-project-backend)
 
 ### Connect with me [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>][linkedin]
 
