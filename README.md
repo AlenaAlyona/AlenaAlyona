@@ -4,7 +4,7 @@
 
 :zap: Vue [WEATHER-VUEAPP](https://weather-vueapp.netlify.app/) app ([source code](https://github.com/AlenaAlyona/weather_app))
 
-:wave: React + Redux + Firebase + Sequelize ORM [TALKIE](https://talkie-nl.netlify.app/) app 
+:wave: React + Redux + Firebase + PostgreSQL [TALKIE](https://talkie-nl.netlify.app/) app 
 
 source code:
 - :point_right: [talkie client](https://github.com/AlenaAlyona/talkie-frontend)
@@ -27,7 +27,6 @@ source code:
 <img align="left" alt="nodejs logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"/>
 <img align="left" alt="sql orm logo" width="26px" src="https://sequelize.org/v4/manual/asset/logo-small.png"/>
 <img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png"/>
-<img align="left" alt="firebase logo" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"/>
 <img align="left" alt="react logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"/>
 <img align="left" alt="redux logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png"/>
 <img align="left" alt="bootstrap logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"/>
